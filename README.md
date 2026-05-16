@@ -38,15 +38,3 @@ All records currently stored inside tables are sample/demo records only and are 
 | bill_items                 | Stores products inside bills       |
 | payments                   | Stores payment transaction details |
 
-
-
-categories
-   │
-   ├── furniture_fixtures
-   ├── computer_it_networking
-   ├── electrical_electronics
-   ├── engineering_lab_workshop
-   ├── office_stationery_supplies
-   ├── maintenance_utilities
-   ├── safety_security_medical
-   └── sports_event_recreation
